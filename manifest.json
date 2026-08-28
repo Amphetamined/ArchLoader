@@ -1,33 +1,25 @@
 {
- "schema": 1,
- "loaderVersion": "1",
- "releaseTag": "Release",
- "products": [
- {
- "id": "delta",
- "name": "Delta",
- "version": "1",
- "type": "jar",
- "url": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/Delta.jar",
- "sha256": "7e3caa54a119129bf04a651b54a9ecce8b1f90549184a0c5d33fa2e5c85a5391"
- },
- {
- "id": "pouch",
- "name": "Pouch",
- "version": "1",
- "type": "jar",
- "url": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/Pouch.jar",
- "sha256": "bdda066f492f0a22e121d90479da589545e616fa56c0feecb5b180e3de9d3813"
- },
- {
- "id": "catlavan",
- "name": "Catlavan",
- "version": "1",
- "type": "runtime",
- "runtimeUrl": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/Catlavan-runtime.zip",
- "runtimeSha256": "977b94468646bb14af51b88be70bc60c2d9e8bbd101c3e05a19f7ec3bd5276bd",
- "assetsUrl": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/Catlavan-assets-1.16.5.zip",
- "assetsSha256": "19ffb2b0340a0387ab3048c0c1a2b180b77565b5416c0b3c8dfcb44d4c03ca1f"
- }
- ]
+  "schema": 1,
+  "loaderVersion": "1",
+  "releaseTag": "Release",
+  "products": [
+    {
+      "id": "pouch",
+      "name": "Pouch",
+      "version": "1",
+      "type": "jar",
+      "url": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/Pouch.jar",
+      "sha256": "29de87bff404dd1e4d5afa43a33eb29e819ba2557784c75b1b9993b4ff21d19d"
+    },
+    {
+      "id": "catlavan",
+      "name": "Catlavan",
+      "version": "1",
+      "type": "runtime",
+      "runtimeUrl": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/catlavan.zip",
+      "runtimeSha256": "977b94468646bb14af51b88be70bc60c2d9e8bbd101c3e05a19f7ec3bd5276bd",
+      "assetsUrl": "https://github.com/Amphetamined/ArchLoader/releases/download/Release/catlavanassets.zip",
+      "assetsSha256": "19ffb2b0340a0387ab3048c0c1a2b180b77565b5416c0b3c8dfcb44d4c03ca1f"
+    }
+  ]
 }
